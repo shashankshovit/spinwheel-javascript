@@ -123,3 +123,9 @@
     border-top-color: rgba(255, 0, 0, 0.51);
     transform: translate(-213px,113px) rotateZ(240deg);
 }
+
+footer {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
